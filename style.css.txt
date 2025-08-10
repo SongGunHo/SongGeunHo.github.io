@@ -1,0 +1,43 @@
+/* style.css */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fdf6e3;
+  color: #333;
+}
+
+header {
+  background-color: #ffe066;
+  padding: 2rem;
+  text-align: center;
+}
+
+.subtitle {
+  font-style: italic;
+  color: #555;
+}
+
+.portfolio {
+  padding: 2rem;
+}
+
+.project {
+  background-color: #fff3cd;
+  border-left: 5px solid #ffcc00;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.project a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background-color: #eee;
+  font-size: 0.9rem;
+}
