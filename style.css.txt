@@ -1,9 +1,3 @@
-https://github.com/Team2-chatBoard/chatboard.git
-
-
-Koasf971@$
-
-
 /* 모델 검색 e*/
 .ai-model-page .frm-search {
     display:flex;
